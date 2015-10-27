@@ -1,0 +1,86 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "tst_bench_top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "i2c_slave_model": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "i2c_master_top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "reYIK_d": {
+            "mod": "std",
+            "out": "reYIK_d.o",
+            "archive": "archive.0/_281_archive_1.a",
+            "bytes": 18556,
+            "mode": 4
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "amcQw_d.o",
+            "archive": "archive.0/_281_archive_1.a",
+            "bytes": 4564,
+            "mode": 4
+        },
+        "wwxBe_d": {
+            "mod": "i2c_slave_model",
+            "out": "wwxBe_d.o",
+            "archive": "archive.0/_281_archive_1.a",
+            "bytes": 22618,
+            "mode": 4
+        },
+        "Kr4JE_d": {
+            "mod": "i2c_master_top",
+            "out": "Kr4JE_d.o",
+            "archive": "archive.0/_281_archive_1.a",
+            "bytes": 41976,
+            "mode": 4
+        },
+        "sf4HQ_d": {
+            "mod": "tst_bench_top",
+            "out": "sf4HQ_d.o",
+            "archive": "archive.0/_281_archive_1.a",
+            "bytes": 49471,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "objects": [
+                [
+                    "amcQw_d.o",
+                    4564
+                ],
+                [
+                    "reYIK_d.o",
+                    18556
+                ],
+                [
+                    "wwxBe_d.o",
+                    22618
+                ],
+                [
+                    "Kr4JE_d.o",
+                    41976
+                ],
+                [
+                    "sf4HQ_d.o",
+                    49471
+                ]
+            ],
+            "archive": "archive.0/_281_archive_1.a",
+            "size": 137185
+        }
+    ]
+}

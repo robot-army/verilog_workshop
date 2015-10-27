@@ -1,0 +1,62 @@
+{
+    "CompileStatus": "Successful",
+    "NameTable": {
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "tst_bench_top": [
+            "tst_bench_top",
+            "sf4HQ",
+            "module"
+        ],
+        "i2c_slave_model": [
+            "i2c_slave_model",
+            "wwxBe",
+            "module"
+        ],
+        "i2c_master_top": [
+            "i2c_master_top",
+            "Kr4JE",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "stat": {
+        "nMops": 8720
+    },
+    "CompileStrategy": "fullobj",
+    "LVLData": [
+        "SIM"
+    ],
+    "CurCompileUdps": {},
+    "CompileProcesses": [
+        "cgproc.281.json"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 42564
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "i2c_slave_model",
+        "i2c_master_top",
+        "tst_bench_top"
+    ],
+    "PEModules": [],
+    "Misc": {
+        "cwd": "/home/runner",
+        "daidir_abs": "/home/runner/simv.daidir",
+        "csrc": "csrc",
+        "csrc_abs": "/home/runner/csrc",
+        "daidir": "simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.0"
+    }
+}
